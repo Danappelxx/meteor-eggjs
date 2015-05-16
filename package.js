@@ -1,7 +1,7 @@
 Package.describe({
 	name: "danappelxx:eggjs",
 	summary: "A wrapper egg.js to add easter eggs to web pages.",
-	version: "1.0.0",
+	version: "1.0.4",
 	git: "https://github.com/Danappelxx/meteor-eggjs.git",
 	documentation: "README.md"
 });
