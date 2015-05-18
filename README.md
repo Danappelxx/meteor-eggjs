@@ -1,6 +1,6 @@
 # `Egg.js`
 
-This is a wrapper for the original [egg.js](https://github.com/mikeflynn/egg.js) library.
+## This is a for the original [egg.js](https://github.com/mikeflynn/egg.js) library.
 
 
 ![Egg.js](http://thatmikeflynn.com/egg.js/eggjs.png)
@@ -9,14 +9,7 @@ Egg.js is a simple JS library that has no prerequisites and allows you to easily
 
 ### Example
 
-It's really easy to use. Just include the egg.js file on the page...
-
-```html
-<script type="text/javascript" src="/path/to/egg.js"></script>
-```
-
-...then use the `addCode()` function to add in your easter eggs. You need to pass it the character sequence to trigger the easter egg callback (which can either be in plain English or Javascript key codes), a function to trigger when it happens, and an optional set of metadata. Metadata can be anything from a string to an object.
-
+It's very easy to use...
 ```js
 var egg = new Egg();
 egg
